@@ -1,4 +1,4 @@
-# Agent guidelines (branch2 v1)
+# Agent guidelines (branch2 v2)
 
 This repository does not accept AI edited contributions.
 
