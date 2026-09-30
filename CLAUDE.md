@@ -1,4 +1,4 @@
-# Claude guidelines (old clone v2)
+# Claude guidelines (old clone v3)
 
 This repository does not accept AI edited contributions.
 
