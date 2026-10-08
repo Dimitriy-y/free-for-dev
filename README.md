@@ -1722,3 +1722,4 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 Practical work variant 4 - README
+show var 4 RE
